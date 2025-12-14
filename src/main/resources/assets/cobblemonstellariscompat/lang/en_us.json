@@ -1,0 +1,13 @@
+{
+  "itemGroup.cobblemonstellariscompat": "Example Mod Tab",
+  "block.cobblemonstellariscompat.example_block": "Example Block",
+  "item.cobblemonstellariscompat.example_item": "Example Item",
+
+  "cobblemonstellariscompat.configuration.title": "cobblemon_stellaris_compat Configs",
+  "cobblemonstellariscompat.configuration.section.cobblemonstellariscompat.common.toml": "cobblemon_stellaris_compat Configs",
+  "cobblemonstellariscompat.configuration.section.cobblemonstellariscompat.common.toml.title": "cobblemon_stellaris_compat Configs",
+  "cobblemonstellariscompat.configuration.items": "Item List",
+  "cobblemonstellariscompat.configuration.logDirtBlock": "Log Dirt Block",
+  "cobblemonstellariscompat.configuration.magicNumberIntroduction": "Magic Number Text",
+  "cobblemonstellariscompat.configuration.magicNumber": "Magic Number"
+}

@@ -1,0 +1,6 @@
+{
+  "keys": ["survives_space"],
+  "type": "flag",
+  "isAspect": false,
+  "default": true
+}
